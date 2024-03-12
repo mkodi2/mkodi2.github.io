@@ -48078,11 +48078,11 @@ h=A.W(d)
 g=A.ai(d)
 if($.acC){A.hQ("Kh\xf4ng th\u1ec3 k\u1ebft n\u1ed1i \u0111\u1ebfn m\xe1y ch\u1ee7",1)
 n.ses(0,n.f.Hy(B.cm))
-$.t4="https://zank.ddnsking.com/api/"
+$.t4="https://tungbui.ddns.net/"
 s=1
 break}$.acC=!0
 n.ses(0,n.f.HA(!0))
-$.t4="http://mkodi.ddns.net:2001/"
+$.t4="https://mkodi.ddns.net/"
 n.ja(a3,a4)
 s=8
 break
@@ -48095,7 +48095,7 @@ zI(){var s=0,r=A.u(t.z),q=1,p,o=this,n,m,l,k,j
 var $async$zI=A.p(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.o(o.arg(A.bS("http://mkodi.ddns.net:2001/check",0,null),10),$async$zI)
+return A.o(o.arg(A.bS("https://mkodi.ddns.net/check",0,null),10),$async$zI)
 case 6:n=b
 n.toString
 if(n.b!==200)o.ses(0,o.f.HA(!0))
@@ -99729,7 +99729,7 @@ $.aAt=""
 $.aLx=""
 $.J0=""
 $.ta=""
-$.t4="https://zank.ddnsking.com/api/"
+$.t4="https://tungbui.ddns.net/"
 $.BU=null
 $.acC=!1
 $.aHu=""
