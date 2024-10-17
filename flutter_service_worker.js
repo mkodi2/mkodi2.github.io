@@ -9,9 +9,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "db000601bb158a8788cf7efba718fa29
 "assets/assets/kodi.png": "5ebd378dec3100fb6fd02fd753fc6106",
 "assets/assets/logo.png": "f773c1d702b3c239ae51156f046e2b44",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "724265cf0581e10ca4c04577e5ab1993",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "98e10aa7e1ecf587d049ffa309e431cc",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b93248a553f9e8bc17f1065929d5934b",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
@@ -32,11 +32,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "db000601bb158a8788cf7efba718fa29
 "icons/Icon-512.png": "4d12601b992edee48835705948b73a36",
 "icons/Icon-maskable-192.png": "4d12601b992edee48835705948b73a36",
 "icons/Icon-maskable-512.png": "4d12601b992edee48835705948b73a36",
-"index.html": "0fdbc8a6389ad69fbf4874f68b79effe",
-"/": "0fdbc8a6389ad69fbf4874f68b79effe",
-"main.dart.js": "f233ab1ba6a244d4a9003bb21307768d",
+"index.html": "8fbbbc123a002e49e9a917c5e862db1c",
+"/": "8fbbbc123a002e49e9a917c5e862db1c",
+"main.dart.js": "d661ac8f312771edd257d69647dad6cb",
 "manifest.json": "d0e1cfa6bf33bd8c936930e1300d50e0",
-"version.json": "00c05a7fcbe16c823ae832c578ed93b4"};
+"version.json": "379cf6ff5d33c65c50740fb2d13a5695"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
